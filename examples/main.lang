@@ -2,6 +2,6 @@ import util
 import io
 
 function main() {
-    result = calculate(10, 20);
+  result = calculate(10, 20);
     printMessage(result);
 }
